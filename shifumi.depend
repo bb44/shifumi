@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1351336325 source:c:\users\bb\desktop\nouveau dossier\shifumi\src\ciseaux.cpp
+	"Ciseaux.h"
+	"string"
+
+1351336325 c:\users\bb\desktop\nouveau dossier\shifumi\include\ciseaux.h
+	"Coup.h"
+
+1351338580 c:\users\bb\desktop\nouveau dossier\shifumi\include\coup.h
+	"String"
+
+1351336325 source:c:\users\bb\desktop\nouveau dossier\shifumi\src\papier.cpp
+	"Papier.h"
+	"string"
+
+1351336325 c:\users\bb\desktop\nouveau dossier\shifumi\include\papier.h
+	"Coup.h"
+
+1351336441 source:c:\users\bb\desktop\nouveau dossier\shifumi\src\pierre.cpp
+	"Pierre.h"
+	"string"
+	<iostream>
+
+1351336441 c:\users\bb\desktop\nouveau dossier\shifumi\include\pierre.h
+	"Coup.h"
+
+1351421468 source:c:\users\bb\desktop\nouveau dossier\shifumi\src\coup.cpp
+	"Coup.h"
+	<iostream>
+	"string"
+
+1351342281 source:c:\users\bb\desktop\nouveau dossier\shifumi\main.cpp
+	<iostream>
+	"Coup.h"
+	"Pierre.h"
+	"Papier.h"
+	"Ciseaux.h"
+	"Joueur.h"
+	"Partie.h"
+
+1351339819 source:c:\users\bb\desktop\nouveau dossier\shifumi\src\joueur.cpp
+	"Joueur.h"
+	"Coup.h"
+	"Papier.h"
+	"Pierre.h"
+	"Ciseaux.h"
+	<iostream>
+
+1351338218 c:\users\bb\desktop\nouveau dossier\shifumi\include\joueur.h
+	"Coup.h"
+	"String"
+
+1351424529 source:c:\users\bb\desktop\nouveau dossier\shifumi\src\partie.cpp
+	"Partie.h"
+	"Coup.h"
+	<iostream>
+
+1351342281 c:\users\bb\desktop\nouveau dossier\shifumi\include\partie.h
+	"Joueur.h"
+	"Coup.h"
+	"Humain.h"
+	"IA.h"
+
+1351340620 source:c:\users\bb\desktop\nouveau dossier\shifumi\src\humain.cpp
+	<iostream>
+	"Humain.h"
+	"Coup.h"
+	"Ciseaux.h"
+	"Papier.h"
+	"Pierre.h"
+
+1351340459 c:\users\bb\desktop\nouveau dossier\shifumi\include\humain.h
+	"Joueur.h"
+
+1351430727 c:\users\bb\desktop\nouveau dossier\shifumi\include\ia.h
+	"Joueur.h"
+	<vector>
+
+1351428627 source:c:\users\bb\desktop\nouveau dossier\shifumi\src\ia.cpp
+	"IA.h"
+	<iostream>
+	"Coup.h"
+	"Ciseaux.h"
+	"Papier.h"
+	"Pierre.h"
+	"cstdlib"
+	<time.h>
+	<vector>
+
